@@ -8,6 +8,9 @@
 
 - Move the speechtotext/GodotSpeech.java to godot/platform/android/java/src/org/godotengine/godot
 
+- Import the speechtest example project in Godot for a test run 
+
+
 **Note:** The speechtotext/android.jar is taken from  *android-sdk-linux/platforms/android-19*. You may choose to use any other api version.
 
 ###Compile
