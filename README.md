@@ -28,6 +28,7 @@ Add the following in the engine.cfg file:
 > var singleton = Globals.get_singleton("GodotSpeech")
 
 > singleton.doListen() # opens up the mic ui
+
 > singleton.getWords() # gets the strings of words 
 
 ###Build the game apk
