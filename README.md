@@ -51,5 +51,5 @@ MIT
 ###Special Mention
 Thanks [TeamKrishna](http://teamkrishna.in) for the request.
 
-Similar plugings: [GodotVibrate](https://github.com/literaldumb/GodotVibrate) 
+Other plugins: [GodotVibrate](https://github.com/literaldumb/GodotVibrate) 
 
