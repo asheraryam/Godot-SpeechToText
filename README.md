@@ -49,7 +49,10 @@ Custom Package (Debug/Release):
 MIT
 
 ###Special Mention
-Thanks [TeamKrishna](http://teamkrishna.in) for the request.
+Thanks [TeamKrishna](http://teamkrishna.in)
 
-Other plugins: [GodotVibrate](https://github.com/literaldumb/GodotVibrate) 
+Other plugins: 
+- [GodotVibrate](https://github.com/literaldumb/GodotVibrate) 
+- [Godot-TextToSpeech](https://github.com/literaldumb/Godot-TextToSpeech)
+- [Godot-CustomSpeech](https://github.com/literaldumb/Godot-CustomSpeech)
 
